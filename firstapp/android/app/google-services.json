@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59935056130",
+    "project_id": "flutterappjulettepeque",
+    "storage_bucket": "flutterappjulettepeque.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59935056130:android:a0d49830d7f0f3f0a5e21b",
+        "android_client_info": {
+          "package_name": "com.julettedev27.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59935056130-gase10h9kkalqgg2v8ndlvfloiuhe444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvaZLWq1KWicMbwkuAf5IIHMo5t-HWr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59935056130-gase10h9kkalqgg2v8ndlvfloiuhe444.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
